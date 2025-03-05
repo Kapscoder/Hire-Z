@@ -1,3 +1,0 @@
-HireZ: An Hiring Platform
-
-
